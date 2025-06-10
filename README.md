@@ -1,6 +1,5 @@
 # Expense Tracker
 
-
 #### Description:
 
 **Expense Tracker ** is a terminal-based Python application that allows users to manage their daily expenses with ease. It provides an intuitive interface for adding, viewing, searching, and deleting expenses, along with calculating the total amount spent. The project is built using Python and leverages third-party libraries like `rich` and `pyfiglet` for enhanced user experience through colorful tables and ASCII banners.
